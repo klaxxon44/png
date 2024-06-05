@@ -1,0 +1,64 @@
+header {
+	height: 40px;
+	background-image: url("images.jpg");
+	padding-top: 0px;
+	text-align: center;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	border-bottom: 1px solid white;
+}
+body {
+	color: white;
+}
+
+nav {
+	display: flex;
+	justify-content: space-around;
+	padding-top: 10px;
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+
+header h1 {
+	text-align: center;
+	margin-top: 0px;
+	color:white;
+	padding-left: 0px;
+	padding-top:;
+}
+
+header {
+	height: 40px;
+	background-image: url("images.jpg");
+	padding-top: 0px;
+	text-align: center;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	border-bottom: 1px solid white;
+}
+
+body {
+	background-color: black;
+	padding: 0px;
+	margin: 0px;
+}
+
+.planet {
+	width: 80%;
+	margin-left: 10%;
+	padding-top: 20px;
+	border-bottom: 2px solid white;
+}
+
+.planet p {
+	font-size: 19px;
+}
+main {
+	margin-top: 40px;
+}
